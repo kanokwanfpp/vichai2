@@ -1,0 +1,9 @@
+setscreencolor 0
+setpencolor 2
+setpensize 3rt 15 repeat 2 [ fd 150 rt 150 fd 150 rt 30 ]
+rt 75 pu fd 40 lt 90 fd 40 rt 90 pd
+rt 15 repeat 2 [ fd 150 rt 150 fd 150 rt 30 ]
+lt 15 pu fd 27 rt 90 fd 65 rt 45 pd
+rt 15 repeat 2 [ fd 150 rt 150 fd 150 rt 30 ]
+rt 75 pu fd 40 lt 90 fd 40 rt 90 pd
+rt 15 repeat 2 [ fd 150 rt 150 fd 150 rt 30 ]
